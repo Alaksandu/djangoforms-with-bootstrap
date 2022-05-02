@@ -5,7 +5,7 @@
 ###### É um simples projeto feito em Django e Bootstrap. Nele, dois forumulários foram feitos e uma tabela.
 
 
-### Recursos
+## Recursos
 
 ###### Aqui estão dispostos apenas os recursos para rodar a aplicação localmente, para rodar em um servidor web outros recursos serão necessários. Os recursos usados são:
 
@@ -22,26 +22,26 @@
 
 ###### Não iriei ensinar a baixar e instalar o Python e Mysql. É pré-requisito que tenha em sua máquina.
 
-### Rodando
+## Rodando
 
 ````
 > python manage.py runserver
 ````
 
-### Features
+## Features
 
 ###### Como dito na descrição, é um sistema simples feito em django com bootstrap. Contém:
 * Contém uma tabela no index da aplicação, onde lista todos os produtos cadastrados.
 * Contém no endpoint /produto um formulário de cadastro de produto.
 * Contém no endpoint /contato um formulário para envio de email.
 
-### Links
+## Links
 
 ###### Esse projeto pode ser encontrado nos respectivos links:
 * Heroku: https://django2-alaksandu-app.herokuapp.com/
 * Github: https://github.com/Alaksandu/djangoforms-with-bootstrap.git
 
-### Contato
+## Contato
 
 [![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
